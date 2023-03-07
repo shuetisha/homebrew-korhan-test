@@ -38,6 +38,12 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
+brews:
+  - name: korhan-test
+    homepage: https://github.com/shuetisha/homebrew-korhan-test
+    tap:
+      owner: shuetisha
+      name: homebrew-korhan-test
 
 # The lines beneath this are called `modelines`. See `:help modeline`
 # Feel free to remove those if you don't want/use them.
